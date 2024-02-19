@@ -1,1 +1,0 @@
-Add function about fetching information of customers.

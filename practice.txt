@@ -1,0 +1,2 @@
+This is git practice for a commit in local directory.
+Add function about login
